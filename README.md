@@ -12,7 +12,7 @@
 - Star this repository
 - Wait for Pull Request to merge
 - Celebrate - you've done your first pull request!!
-- Anjali Bathla
+- Anjali singh
 
 
 Read about markdown syntax here
